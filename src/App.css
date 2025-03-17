@@ -1,0 +1,7 @@
+button:hover {
+  cursor: pointer;
+}
+
+.filter-buttons button:hover {
+  background-color: #d8b4fe;
+}
