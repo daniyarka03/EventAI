@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { HomeIcon, SavedIcon, ProfileIcon } from './Icons';
+import { HomeIcon, SavedIcon } from './Icons';
 
 const Footer: React.FC = () => {
   return (
